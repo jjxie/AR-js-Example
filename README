@@ -1,0 +1,5 @@
+This is a simple AR js example using webcam.
+The function includes:
+1. Detect multiple markers (include customized markers)
+2. Add Animation of a box
+3. Add Text
